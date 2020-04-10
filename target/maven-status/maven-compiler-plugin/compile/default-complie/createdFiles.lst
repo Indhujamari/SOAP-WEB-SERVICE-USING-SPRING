@@ -1,0 +1,7 @@
+com\javainuse\SpringBootHelloWorldApplication.class
+com\javainuse\config\WebServiceConfig.class
+com\javainuse\ObjectFactory.class
+com\javainuse\endpoint\WebServiceEndpoint.class
+com\javainuse\package-info.class
+com\javainuse\InputSOATest.class
+com\javainuse\OutputSOATest.class
